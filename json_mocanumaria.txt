@@ -1,0 +1,41 @@
+[
+  {
+    "den_atr" : "Cardio",
+    "nr_abd" : 30,
+    "nr_flotari" : 25,
+    "nr_km" : 10,
+  },
+  
+  {
+     "den_atr" : "Abdominal",
+    "nr_abd" : 120,
+    "nr_flotari" : 50,
+    "nr_km" : 8,
+  },
+  
+  {
+    "den_atr" : "Incepator",
+    "nr_abd" : 60,
+    "nr_flotari" : 24,
+    "nr_km" : 5,
+  },
+  
+  {
+     "den_atr" : "Avansat",
+    "nr_abd" : 200,
+    "nr_flotari" : 120,
+    "nr_km" : 22,
+  },
+  {
+     "den_atr" : "AntrenamentPiept",
+    "nr_abd" : 125,
+    "nr_flotari" : 250,
+    "nr_km" : 12,
+  },
+  {
+     "den_atr" : "Joi",
+    "nr_abd" : 120,
+    "nr_flotari" : 50,
+    "nr_km" : 15,
+  }
+  ]
